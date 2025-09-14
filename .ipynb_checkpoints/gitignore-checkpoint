@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment folders
+venv/
+env/
+.env/
+
+# IDE folders
+.idea/
+.vscode/
+
+# The MNIST dataset folder
+data/
+
+# Large model files (optional but good practice)
+*.pth
+*.pt
+
+# OS-specific files
+.DS_Store
+Thumbs.db
